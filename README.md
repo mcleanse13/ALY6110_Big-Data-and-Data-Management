@@ -1,4 +1,4 @@
-ALY6110: Big-Data-and-Data-Management
+ALY6110: Big Data and Data Management
 
 This series of projects in ALY 6110 focused on applying big data methodologies and tools that included Hadoop, Spark, and SparklyR in R to analyze large and complex datasets. Across the six modules, the assignments emphasized data preparation, exploratory data analysis (EDA), visualization, and predictive modeling. Projects ranged from analyzing taxi ride datasets to exploring housing price indices and Zillow home values, providing hands-on experience in using big data frameworks to extract insights, identify patterns, and solve real-world problems. Each project involved structured workflows including data cleaning, outlier treatment, correlation analysis, and leveraging both statistical and machine learning techniques to answer targeted business questions.
 
