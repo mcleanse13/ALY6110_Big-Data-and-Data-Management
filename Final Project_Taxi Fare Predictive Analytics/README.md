@@ -1,4 +1,4 @@
-Predicting Taxi Fares Using Regression Models: Linear, Random Forest, and Gradient Boosting Analysis
+Final Project: Predicting Taxi Fares Using Regression Models: Linear, Random Forest, and Gradient Boosting Analysis
 
 Our final project investigates predictive analytics in the taxi service sector, with a primary focus on accurately forecasting taxi fares. Using a comprehensive dataset containing trip distances, toll amounts, and related fare components, we employed a structured methodology encompassing data cleaning, exploratory data analysis (EDA), model selection, training, and evaluation. Through this process, we aimed to uncover the key factors influencing fare amounts and assess the predictive power of different regression models, providing actionable insights for operational efficiency, pricing strategies, and customer satisfaction.
 
